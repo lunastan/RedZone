@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RedZone</string>
+    <string name="forgot"><font color='#c4c4c4'>Forgot login details?</font>Get help logging in.</string>
+</resources>
